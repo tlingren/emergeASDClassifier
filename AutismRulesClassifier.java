@@ -1,7 +1,7 @@
 package org.apache.ctakes.emerge.rules;
 
 /**
- * This class receives as input dicationary files, 
+ * This class receives as input dictionary file and CUI vector files
  * 
  * @author Pei Chen
  * @author Todd Lingren
